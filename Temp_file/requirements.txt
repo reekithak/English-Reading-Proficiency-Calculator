@@ -12,3 +12,4 @@ matplotlib
 pylab-sdk
 gensim
 scikit-learn
+tensorflow
