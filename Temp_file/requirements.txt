@@ -10,3 +10,5 @@ pandas
 numpy
 matplotlib
 pylab-sdk
+gensim
+scikit-learn
