@@ -8,6 +8,7 @@ def to_text(output_file,text_dict):
         try:
             s = r.recognize_google(audio).lower()
             print("Text: "+s)
+            print("        ")
             print("Successfully Analysed")
             intelligence_score = 1
         except Exception as e:
