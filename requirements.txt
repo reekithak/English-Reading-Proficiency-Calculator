@@ -5,7 +5,9 @@ memory-profiler
 librosa
 pylab-sdk
 nltk
-torch==1.8.1+cu102 torchvision==0.9.1+cu102 torchaudio===0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
+torch
+torchvision
+torchaudio
 transformers
 tensorflow
 keras
