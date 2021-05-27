@@ -24,7 +24,7 @@ def predict_2(image):
     processed_image = preprocess_image(image,target_size=(224,224))
     print("keras Model Loading")
     
-    model = tensorflow.keras.models.load_model('Models/model.h5')
+    model = tensorflow.keras.models.load_model(".\Modules\Models\model.h5")
     print("Model Loading Complete")
     prediction = model.predict(processed_image).tolist()
     print("Prediction Complete")
