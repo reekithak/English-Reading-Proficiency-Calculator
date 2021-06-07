@@ -12,6 +12,8 @@ The Application hasn't been deployed anywhere due to high server-cost constraint
 
 The application is still CommandLine Based ( I've got below average Frontend-Skills ).<br />
 
+All the modules are here in this [Repository](https://github.com/reekithak/English-Proficiency-Tester-Modules) 
+
 
 ## Run the Application to test your "Reading Skills?"
 
