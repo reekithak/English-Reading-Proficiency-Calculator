@@ -38,3 +38,7 @@ Once all the Above is Completed , Lets run our Application.<br\>
 Run the below command in the cmd.
 
 `python app.py`
+
+
+
+And let the application run its course 😋
