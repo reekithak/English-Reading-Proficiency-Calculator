@@ -10,7 +10,7 @@
 - The application is still CommandLine Based.
 - The Basic Flow of the Modules are described here:
 
-<img src="https://github.com/reekithak/English-Proficiency-Tester-Modules/blob/master/Images/(Initial-Inter)FLOW.jpeg">
+<img src="https://github.com/reekithak/English-Proficiency-Tester-Modules/blob/master/Images/ERPC.jpg">
 ## Module Implementation From Scratch?
 - All the modules are here in this [Repository](https://github.com/reekithak/English-Proficiency-Tester-Modules).
 - They've been implemented in the above repo ( some from scratch, some open-source).
