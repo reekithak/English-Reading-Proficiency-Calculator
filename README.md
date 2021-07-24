@@ -1,18 +1,20 @@
 # English-Reading-Proficiency-Calculator
-Still in Project-Development Phase. Plenty of room for improvement. <br/>
+- Still in Project-Development Phase. Plenty of room for improvement. <br/>
+- Any Suggestions welcomed.
+- All the modules have been implemented, yet there's space for more. 
 
-All the modules have been implemented, yet there's space for more. 
-Any open suggestion is welcomed.
+# Phases:
 
-## Phases:
+- The model runs in basically two different phases. The FlowCharts has been presented here [FLOWCHART](https://github.com/reekithak/English-Reading-Proficiency-Calculator/tree/master/Modules/Temp_file).
+- The Application hasn't been deployed anywhere due to high server-cost constraints & limited resources.
+- The application is still CommandLine Based.
+- The Basic Flow of the Modules are described here:
 
-The model runs in basically two different phases. The FlowChart has been presented here [FLOWCHART](https://github.com/reekithak/English-Reading-Proficiency-Calculator/tree/master/Modules/Temp_file).
-<br />
-The Application hasn't been deployed anywhere due to high server-cost constraints & limited resources. <br />
+<img src="https://github.com/reekithak/English-Proficiency-Tester-Modules/blob/master/Images/(Initial-Inter)FLOW.jpeg">
+## Module Implementation From Scratch?
+- All the modules are here in this [Repository](https://github.com/reekithak/English-Proficiency-Tester-Modules).
+- They've been implemented in the above repo ( some from scratch, some open-source).
 
-The application is still CommandLine Based ( I've got below average Frontend-Skills ).<br />
-
-All the modules are here in this [Repository](https://github.com/reekithak/English-Proficiency-Tester-Modules) 
 
 
 ## Run the Application to test your "Reading Skills?"
