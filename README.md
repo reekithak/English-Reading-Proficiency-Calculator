@@ -31,6 +31,11 @@
 <img src="https://github.com/reekithak/English-Proficiency-Tester-Modules/blob/master/Images/5a.JPG">
 <img src="https://github.com/reekithak/English-Proficiency-Tester-Modules/blob/master/Images/5.jpg">
 
+- The Deep Learning Models are Loaded and Evaluation begins, Scores are calculated and produced
+<img src="https://github.com/reekithak/English-Proficiency-Tester-Modules/blob/master/Images/6.JPG">
+<img src="https://github.com/reekithak/English-Proficiency-Tester-Modules/blob/master/Images/7.JPG">
+
+
 ## Run the Application to test your "Reading Skills?"
 
 ### Step 1:
@@ -60,3 +65,9 @@ Run the below command in the cmd.
 
 
 And let the application run its course 😋
+
+
+## Note:
+- The Application is Completely Commandline Based.
+- Open-Source Codes have been used
+- Room for Improvements & Suggestions :) 
