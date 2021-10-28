@@ -1,4 +1,4 @@
-# English-Reading-Proficiency-Calculator
+# English Reading Proficiency Calculator
 - Still in Project-Development Phase. Plenty of room for improvement. <br/>
 - Any Suggestions welcomed.
 - All the modules have been implemented, yet there's space for more. 
